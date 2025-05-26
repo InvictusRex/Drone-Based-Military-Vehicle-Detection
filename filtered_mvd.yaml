@@ -1,0 +1,6 @@
+train: train/images
+val: val/images
+test: test/images
+
+nc: 5
+names: ["tank", "truck", "armored_vehicle", "hummer", "rocket_artillery"]
