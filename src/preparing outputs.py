@@ -16,4 +16,4 @@ def rename_files_sequentially(folder_path):
         print(f"Renamed: {filename} -> {new_name}")
 
 # Example usage
-rename_files_sequentially(r'E:\1_Work_Files\D_Research Paper - Military Vehicle Detection & Tracking\Drone-Based-Military-Vehicle-Detection\YOLOv8s Results & Metrics\Prediction Outputs')
+rename_files_sequentially(r'E:\1_Work_Files\D_Research Paper - Military Vehicle Detection & Tracking\Drone-Based-Military-Vehicle-Detection\YOLOv11m Results & Metrics\Prediction Outputs')
