@@ -1,6 +1,6 @@
 # Drone-Based Real-Time Military Vehicle Detection Using YOLOv8 and YOLOv11 Architectures
 
-This project presents an advanced object detection system for **real-time identification of military vehicles** from UAV-mounted cameras using YOLO-based deep learning models. We benchmark six model variants — YOLOv8n, v8s, v8m and YOLOv11n, 11s, 11m — to determine the optimal choice for **onboard drone deployment**, balancing detection accuracy with computational efficiency.
+This project presents an advanced object detection system for **real-time identification of military vehicles** from UAV-mounted cameras using YOLO-based deep learning models. We benchmark six model variants, YOLOv8n, v8s, v8m and YOLOv11n, 11s, 11m, to determine the optimal choice for **onboard drone deployment**, balancing detection accuracy with computational efficiency.
 
 The models are evaluated on a curated multi-class aerial dataset featuring tanks, trucks, humvees, and armored vehicles, with an input resolution of 1024×1024 across all variants.
 
